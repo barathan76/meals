@@ -17,8 +17,6 @@ A simple and clean Flutter application that helps you explore meal categories, b
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <div align="center">
 
 <img src="ss/categories.png" style="max-width: 100%; width: 300px;" alt="Meal Categories" />
