@@ -19,31 +19,36 @@ A simple and clean Flutter application that helps you explore meal categories, b
 
 <div align="center">
 
-<img src="ss/categories.png" style="max-width: 100%; width: 300px;" alt="Meal Categories" />
-<br/>
-<i>List of meal categories</i>
-<br/><br/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="ss/categories.png" style="max-width: 100%; width: 300px;" alt="Meal Categories"/><br/>
+      <i>List of meal categories</i>
+    </td>
+    <td align="center">
+      <img src="ss/favorites.png" style="max-width: 100%; width: 300px;" alt="Favorite Meals"/><br/>
+      <i>Your favorite meals</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="ss/meal_details.png" style="max-width: 100%; width: 300px;" alt="Meal Details"/><br/>
+      <i>Detailed view of a selected meal</i>
+    </td>
+    <td align="center">
+      <img src="ss/app_drawer.png" style="max-width: 100%; width: 300px;" alt="App Drawer"/><br/>
+      <i>Navigation drawer of the Meals App</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="ss/filters.png" style="max-width: 100%; width: 300px;" alt="Filters"/><br/>
+      <i>Apply filters like vegetarian, vegan, gluten-free</i>
+    </td>
+  </tr>
+</table>
 
-<img src="ss/favorites.png" style="max-width: 100%; width: 300px;" alt="Favorite Meals" />
-<br/>
-<i>Your favorite meals</i>
-<br/><br/>
-
-<img src="ss/meal_details.png" style="max-width: 100%; width: 300px;" alt="Meal Details" />
-<br/>
-<i>Detailed view of a selected meal</i>
-<br/><br/>
-
-<img src="ss/app_drawer.png" style="max-width: 100%; width: 300px;" alt="App Drawer" />
-<br/>
-<i>Navigation drawer of the Meals App</i>
-<br/><br/>
-
-<img src="ss/filters.png" style="max-width: 100%; width: 300px;" alt="Filters" />
-<br/>
-<i>Apply filters like vegetarian, vegan, gluten-free</i>
 </div>
-
 
 ## 🚀 Getting Started
 
